@@ -98,7 +98,7 @@ Maintainers (CyanogenMod 13.0):
 * __Samsung Galaxy Note II LTE (Verizon) (SCH-I605):__ sbrissen
 * __Samsung Galaxy Note II LTE (Sprint) (SPH-L900):__ sbrissen
 * __Samsung Galaxy Note II LTE (USCC) (SCH-R950):__ sbrissen
-* __Samsung Galaxy Note III (hlte):__ cyanogen, noobnl, slayher
+* __Samsung Galaxy Note III (hlte):__ cyanogen, noobnl, slayher, Morningstar
 * __Samsung Galaxy Note IV Exynos (trelte):__ raymanfx
 * __Samsung Galaxy Note IV Exynos (trhplte):__ raymanfx
 * __Samsung Galaxy Note 8.0 3G (GT-N5100):__ sbrissen
